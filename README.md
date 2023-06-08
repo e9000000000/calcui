@@ -1,4 +1,5 @@
 # compile and run
+![](/screenshot.jpeg)
 ```bash
 # just run
 mvn clean javafx:run
